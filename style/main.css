@@ -46,6 +46,16 @@ h1.title {
   100% {
     top: -50px;
     opacity: 0; } }
+.first-h{
+    text-align: center;
+}
+.music{
+    float:right;
+    text-align: right;
+    position: relative;
+    display: inline-block;
+}
+
 .scores-container {
   float: right;
   text-align: right; }

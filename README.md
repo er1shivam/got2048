@@ -19,6 +19,12 @@ The official app can also be found on the [Play Store](https://play.google.com/s
   alt="Screenshot"/>
 </p>
 
+
+<p align="center">
+  <img src="screenshot1.PNG"
+  alt="Screenshot"/>
+</p>
+
 :smile:
 
 ## Contributing
